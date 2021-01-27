@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.exe
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.deps.json
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.dll
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.pdb
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.dll
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.pdb
+C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.genruntimeconfig.cache
