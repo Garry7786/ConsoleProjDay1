@@ -11,3 +11,16 @@ C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderD
 C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.dll
 C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.pdb
 C:\Users\Administrator\source\repos\ConsoleAppGurwinderDay1\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.genruntimeconfig.cache
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.csprojAssemblyReference.cache
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.AssemblyInfoInputs.cache
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.AssemblyInfo.cs
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.csproj.CoreCompileInputs.cache
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.dll
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.pdb
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.exe
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.deps.json
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.runtimeconfig.json
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.runtimeconfig.dev.json
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.dll
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\bin\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.pdb
+D:\rai\code\gurwinder\ConsoleAppGurwinderDay1\obj\Debug\netcoreapp3.1\ConsoleAppGurwinderDay1.genruntimeconfig.cache

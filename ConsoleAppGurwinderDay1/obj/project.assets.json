@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ConsoleAppGurwinderDay1\\ConsoleAppGurwinderDay1\\ConsoleAppGurwinderDay1.csproj",
+      "projectUniqueName": "D:\\rai\\code\\gurwinder\\ConsoleAppGurwinderDay1\\ConsoleAppGurwinderDay1.csproj",
       "projectName": "ConsoleAppGurwinderDay1",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\ConsoleAppGurwinderDay1\\ConsoleAppGurwinderDay1\\ConsoleAppGurwinderDay1.csproj",
+      "projectPath": "D:\\rai\\code\\gurwinder\\ConsoleAppGurwinderDay1\\ConsoleAppGurwinderDay1.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\ConsoleAppGurwinderDay1\\ConsoleAppGurwinderDay1\\obj\\",
+      "outputPath": "D:\\rai\\code\\gurwinder\\ConsoleAppGurwinderDay1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
