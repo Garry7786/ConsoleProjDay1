@@ -14,7 +14,7 @@
 
 
 //            Box b2 = new Box();
-            
+
 //            b1.Length = 3; // set
 //            b1.Breadth = 4; // set
 //            b1.Height = 2; // set
@@ -28,18 +28,26 @@
 
 
 //            Console.WriteLine($"B1 dimension {b1.Length}x{b1.Breadth}x{b1.Height} and area is {b1.Area()} and Vol is {b1.Vol()}");
-            
+
 //            Console.WriteLine($"The Area of B2 is {b2.Area()} and Vol is {b2.Vol()}");
 
 //            Box b3 = new Box(b2);
 //            Console.WriteLine($"B3 dimension {b3.Length}x{b3.Breadth}x{b3.Height} and area is {b3.Area()} and Vol is {b3.Vol()}");
-            
+
+//            if(b1.IsEqual(b2))
+//            {
+//                Console.WriteLine("Both boxes are euqual");
+//            }
+//            else
+//            {
+//                Console.WriteLine("Boxes are Not equal");
+//            }
 //            /*
 //             1. Create BankAccount Class - Property - AccNo, AccHolder, AccBalance - Functions CreateAcc(), ShowAccInfo(), Deposit(), WithDrawl(), ShowBalance()
 //             2. Distance - Feet, Inch  Input and output 
 
-             
-             
+
+
 //             */
 //        }
 //    }

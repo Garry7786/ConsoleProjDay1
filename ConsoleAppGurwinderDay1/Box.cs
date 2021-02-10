@@ -69,6 +69,11 @@ namespace ConsoleAppGurwinderDay1
         {
             return l * b * h;
         }
+        public bool IsEqual(Box box)
+        {
+            return this.Vol() == box.Vol();
+
+        }
     }
 }
 //OOP - Technique to learn real life in the world of computer. to solve real life
