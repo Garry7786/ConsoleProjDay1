@@ -37,6 +37,19 @@ namespace ConsoleAppGurwinderDay1
                 Console.WriteLine($"User Detail : {user1.FirstName} {user1.LastName}, UserName {user1.UserName}, Password {user1.Password}");
 
             }
+            // Dept Table DNo , DName, Loc
+
+            // Employee , EmpNo, EName, Job, Hiredate, Employee Manager, int MgrId,  Salary, Comm, Dept Department, int Dno
+            
+            // select all employee of department id  10
+            // select all employee who get sal >=5000
+            // 10 years eperience
+            // select emp who is work under empno no 101
+            // department wise total salary
+            // get employee of highest
+            // list employee sal + comm = totalsal
+            // 
+            // 
 
         }
     }
